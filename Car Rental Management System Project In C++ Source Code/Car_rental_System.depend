@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514103245 source:c:\users\emadh\desktop\car_rental_system\main.cpp
+	<iostream>
+
+1667065764 source:c:\users\mazen\desktop\car rental management system project in c++ source code\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
